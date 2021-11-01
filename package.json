@@ -1,0 +1,12 @@
+{
+  "name": "cheduleMatcher",
+  "version": "0.0.1",
+  "description": "web app for schedule matching",
+  "main": "index.js",
+  "repository": "git@github.com:Y-Kuro-u/cheduleMatcher.git",
+  "author": "Y-Kuro-u <yuuki.k.07.05@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "express-generator": "^4.16.1"
+  }
+}
